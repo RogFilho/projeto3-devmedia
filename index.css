@@ -1,0 +1,138 @@
+/*ESTILO GLOBAL*/
+body{
+    margin: 0;
+    font-family: "Tahoma";
+}
+#sec1, #sec2, #sec3, #sec4, #sec5, #sec6 {
+    padding: 30px;
+    text-align: center;
+}
+p{
+    margin: 10px auto;
+    width: 980px;
+    text-align: justify;
+    line-height: 28px;
+    font-size: 18px;
+}
+p span{
+    font-weight: bold;
+}
+/*ESTILO SEÇÃO 1*/
+#sec1{
+    padding: 30px;
+    text-align: center;
+    background-color: #afddfb;
+
+}
+#sec1 img{
+    width: 150px;
+}
+#sec1 p{
+    margin-top: 15px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+#sec1 a{
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom: 2px solid #1d1d1d;
+    text-decoration: none;
+    margin: 0px 10px;
+}
+/*ESTILO SEÇÃO 2*/
+#sec2{
+    margin-top: 50px;
+    padding-top: 0;
+}
+/*ESTILO SEÇÃO 3*/
+#sec3 h1{
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+#sec3 h2{
+    color: #1c81c0;
+    margin-top: 0;
+    font-weight: normal;
+}
+#sec3 img{
+    width: 450px;
+}
+#sec3 span{
+    color: #1c81c1;
+}
+/*ESTILO SEÇÃO 4*/
+#sec4{
+    background-color: #1c81c1;
+}
+#sec4 h3{
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+#sec4 p{
+    color: #ffffff;
+    font-size: 22px;
+    line-height: 42px;
+    text-align: center;
+    width: 700px;
+}
+#sec4 span{
+    color: #fff81b;
+}
+#sec4 ul{
+    margin: 40px auto;
+    width: 135px;
+}
+#sec4 li{
+    color: #ffffff;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+}
+/*ESTILO SEÇÃO 5*/
+#sec5 h3{
+    color: #1c81c0;
+    font-size: 28px;
+    line-height: 42px;
+}
+#sec5 span{
+    color: #1c81c1;
+}
+#sec5 img{
+    width: 450px;
+}
+/*ESTILO SEÇÃO 6*/
+#sec6{
+    background-color: #1c81c1;
+}
+#sec6 h3{
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+#sec6 p{
+    color: #ffffff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+#sec6 p span{
+    color: #fff81b;
+    font-weight: bold;
+}
+#sec6 ul{
+    margin: 40px auto;
+    width: 210px;  
+}
+#sec6 ul li{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px; 
+}
+#sec6 ul li a{
+    background-color: #ffffff;
+    color: #1c81c1;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
